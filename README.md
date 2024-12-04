@@ -8,3 +8,8 @@ The framework employs several modality-specific models hosted on the server, eac
 #
 
 ![alt text](https://github.com/MODAL-UNINA/FLAMES---Federated-Learning-for-Advanced-Medical-Segmentation/blob/main/Images/Framework.png)
+
+
+### Acknowledgments
+This work has been supported by PNRR Centro Nazionale HPC, Big Data e Quantum
+Computing, (CN 00000013)(CUP: E63C22000980007), under the NRRP MUR program funded by the NextGenerationEU, Innovation Funds "SESG - Integrated Platform for Enhanced Analysis of Environmental, Social, and Governance".
