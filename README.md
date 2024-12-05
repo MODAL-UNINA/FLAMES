@@ -13,5 +13,5 @@ The framework employs several modality-specific models hosted on the server, eac
 ### Acknowledgments
 This work has been supported by 
 - PNRR Centro Nazionale HPC, Big Data e Quantum Computing, (CN 00000013)(CUP: E63C22000980007), under the NRRP MUR program funded by the NextGenerationEU, Innovation Funds "SESG - Integrated Platform for Enhanced Analysis of Environmental, Social, and Governance".
-- PNRR project FAIR -  Future AI Research (PE00000013), Spoke 3, under the NRRP MUR program funded by the NextGenerationEU
+- PNRR project FAIR -  Future AI Research (PE00000013), Spoke 3, under the NRRP MUR program funded by the NextGenerationEU.
 - G.A.N.D.A.L.F. - Gan Approaches for Non-iiD Aiding Learning in Federations, CUP: E53D23008290006, PNRR - Missione 4 “Istruzione e Ricerca” - Componente C2 Investimento 1.1 “Fondo per il Programma Nazionale di Ricerca e Progetti di Rilevante Interesse Nazionale (PRIN)”.
