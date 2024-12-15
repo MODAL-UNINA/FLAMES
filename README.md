@@ -7,7 +7,7 @@ The framework employs several modality-specific models hosted on the server, eac
 
 #
 
-![alt text](https://github.com/MODAL-UNINA/FLAMES---Federated-Learning-for-Advanced-Medical-Segmentation/blob/main/Images/framework_MRI_US.png)
+![alt text](https://github.com/MODAL-UNINA/FLAMES---Federated-Learning-for-Advanced-Medical-Segmentation/blob/main/Images/framework_4.png)
 
 
 ### Acknowledgments
