@@ -1,4 +1,4 @@
-# FLAMES-Federated-Learning-for-Advanced-Medical-Segmentation
+# FLAMES-Federated-Learning-for-Advanced-MEdical-Segmentation
 
 ## Abstract
 
